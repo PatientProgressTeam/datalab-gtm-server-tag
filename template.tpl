@@ -6,6 +6,7 @@ ___INFO___
   "version": 1,
   "securityGroups": [],
   "displayName": "DataLab Studio",
+  "categories": ["ANALYTICS", "ADVERTISING", "CONVERSIONS"],
   "brand": {
     "id": "brand_dummy",
     "displayName": "DataLab Studio"
@@ -438,7 +439,12 @@ ___SERVER_PERMISSIONS___
 
 ___TERMS_OF_SERVICE___
 
-By using this template you agree to the DataLab Studio terms of service at https://app.datalabstudio.io/terms and the privacy policy at https://app.datalabstudio.io/privacy. This template sends event data you configure to a DataLab Studio workspace you control, using a server key you supply. It sends data to no other destination.
+___TERMS_OF_SERVICE___
+
+By creating or modifying this file you agree to Google Tag Manager's Community
+Template Gallery Developer Terms of Service available at
+https://developers.google.com/tag-manager/gallery-tos (or such other URL as
+Google may provide), as modified from time to time.
 
 
 ___TESTS___
