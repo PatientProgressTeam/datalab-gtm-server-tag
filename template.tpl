@@ -1,3 +1,11 @@
+___TERMS_OF_SERVICE___
+
+By creating or modifying this file you agree to Google Tag Manager's Community
+Template Gallery Developer Terms of Service available at
+https://developers.google.com/tag-manager/gallery-tos (or such other URL as
+Google may provide), as modified from time to time.
+
+
 ___INFO___
 
 {
@@ -6,7 +14,11 @@ ___INFO___
   "version": 1,
   "securityGroups": [],
   "displayName": "DataLab Studio",
-  "categories": ["ANALYTICS", "ADVERTISING", "CONVERSIONS"],
+  "categories": [
+    "ANALYTICS",
+    "ADVERTISING",
+    "CONVERSIONS"
+  ],
   "brand": {
     "id": "brand_dummy",
     "displayName": "DataLab Studio"
@@ -435,14 +447,6 @@ ___SERVER_PERMISSIONS___
     "isRequired": true
   }
 ]
-
-
-___TERMS_OF_SERVICE___
-
-By creating or modifying this file you agree to Google Tag Manager's Community
-Template Gallery Developer Terms of Service available at
-https://developers.google.com/tag-manager/gallery-tos (or such other URL as
-Google may provide), as modified from time to time.
 
 
 ___TESTS___
