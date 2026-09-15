@@ -1,4 +1,4 @@
 homepage: https://app.datalabstudio.io
 versions:
-- sha: efd494ca38f5b8ce7a7dfe6330e5d1a8f3d5b527
+- sha: 49769473059308ff997ecfd0637879afcff5cc26
   changeNotes: Initial release. Sends server-side events to DataLab Studio for identity resolution, attribution, and conversion delivery to ad platforms.
