@@ -436,6 +436,11 @@ ___SERVER_PERMISSIONS___
 ]
 
 
+___TERMS_OF_SERVICE___
+
+By using this template you agree to the DataLab Studio terms of service at https://app.datalabstudio.io/terms and the privacy policy at https://app.datalabstudio.io/privacy. This template sends event data you configure to a DataLab Studio workspace you control, using a server key you supply. It sends data to no other destination.
+
+
 ___TESTS___
 
 scenarios:
@@ -502,11 +507,6 @@ scenarios:
       Promise.create((resolve) => resolve({ statusCode: 401, body: '{"ok":false}' })));
     runCode(mockData);
     assertApi('gtmOnFailure').wasCalled();
-
-
-___TERMS_OF_SERVICE___
-
-By using this template you agree to the DataLab Studio terms of service at https://app.datalabstudio.io/terms and the privacy policy at https://app.datalabstudio.io/privacy. This template sends event data you configure to a DataLab Studio workspace you control, using a server key you supply. It sends data to no other destination.
 
 
 ___NOTES___
